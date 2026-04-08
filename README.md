@@ -1,4 +1,4 @@
-# 💱 Currency Converter Web App
+# 💱 Currency Converter 
 
 A simple and responsive **Currency Converter** built using **HTML, CSS, and JavaScript**.
 It fetches real-time exchange rates using an API and allows users to convert between currencies instantly.
